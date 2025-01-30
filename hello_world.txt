@@ -1,1 +1,2 @@
 Hello World!
+Check the commit message workflow
